@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://my-gatsby-site/./src/pages/home.js"],"names":[],"mappings":"yIAQA,UANW,WACP,OACI","file":"component---src-pages-home-js-1c1ce292d622dd188346.js","sourcesContent":["import React from \"react\";\n\nconst Home=()=>{\n    return(\n        <div>Home</div>\n    )\n}\n\nexport default Home;"],"sourceRoot":""}
